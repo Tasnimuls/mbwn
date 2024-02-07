@@ -56,8 +56,8 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: 2px;
-  text-align: center;
+  margin: 0px;
+  text-align: justify;
   animation: fadeInUp 1.5s ease-in-out;
   transform: translate(-50%, -50%);
 }
