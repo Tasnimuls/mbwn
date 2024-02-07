@@ -71,6 +71,7 @@ h1 {
 }
 strong {
   font-size: 55px;
+  color: pink;
 }
 
 @keyframes fadeIn {
