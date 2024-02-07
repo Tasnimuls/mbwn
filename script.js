@@ -6,7 +6,7 @@ document.getElementById("pressButton").addEventListener("click", function() {
     // Create and append the text with animation
     const centeredText = document.createElement("div");
     centeredText.classList.add("centered-text");
-    centeredText.innerHTML = "<h1>Happy Birthday,<strong>Meem.</strong>May your day be filled with joy, laugher and cherished memories.</h1>";
+    centeredText.innerHTML = "<h1>Happy Birthday, <strong>Meem.</strong> May your day be filled with joy, laugher and cherished memories.</h1>";
     document.body.appendChild(centeredText);
     centeredText.style.animation = "fadeIn 2s forwards";
   
