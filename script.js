@@ -1,5 +1,5 @@
 document.getElementById("pressButton").addEventListener("click", function() {
-    document.body.style.backgroundColor = "black";
+    document.body.style.backgroundColor = "#FFFFF00";
     // Hide the button
     this.style.display = "none";
   
