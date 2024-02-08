@@ -65,13 +65,14 @@ body {
 h1 {
   font-size: 3em;
   /*background: -webkit-linear-gradient(red,orange,yellow,green,blue,indigo,violet);*/
-  background-color: rgb(255, 199, 209);
+  background-color: rgb(172, 189, 255);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 strong {
   font-size: 60px;
-  color: pink;
+  -webkit-text-fill-color: #adff00;
+  text-shadow: -7px -1px 5px #00bd1e;
 }
 
 @keyframes fadeIn {
